@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb816601-89d7-4589-96d6-1d60ca0491a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wordsmyth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/game/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/server/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/server/Broadcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/server/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/server/WebsocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/resources/sourceQuotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/java/app/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/java/com/mycompany/app/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/resources/sourceQuotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/game/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/game/Session.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/server/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/server/Broadcast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/server/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/server/WebsocketServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/server/WebsocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/classes/sourceQuotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-app.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/surefire-reports/app.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.mycompany.app.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/test-classes/app/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/test-classes/com/mycompany/app/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/target/test-classes/sourceQuotes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1WrDeToKfuVxsvDLZLHymCMHX1M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/styles" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\wordsmyth\client\src\styles" />
+      <recent name="F:\Code\wordsmyth\server\src\test" />
+      <recent name="F:\Code\wordsmyth\server\src\main\java" />
+      <recent name="F:\Code\wordsmyth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\wordsmyth\server\src\main\java\server" />
+      <recent name="F:\Code\wordsmyth\server\src\main\java\app" />
+      <recent name="F:\Code\wordsmyth\server\src\main\java\game" />
+      <recent name="F:\Code\wordsmyth\server\src\main\java" />
+      <recent name="F:\Code\wordsmyth\server\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb816601-89d7-4589-96d6-1d60ca0491a0" name="Default Changelist" comment="" />
+      <created>1579898914790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579898914790</updated>
+      <workItem from="1579898916051" duration="8341000" />
+      <workItem from="1580007693854" duration="487000" />
+      <workItem from="1580008343922" duration="3447000" />
+      <workItem from="1580149611956" duration="2959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
