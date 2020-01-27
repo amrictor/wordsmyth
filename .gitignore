@@ -1,0 +1,15 @@
+.idea/
+
+client/node_modules/
+
+server/target/
+server/pom.xml.tag
+server/pom.xml.releaseBackup
+server/pom.xml.versionsBackup
+server/pom.xml.next
+server/release.properties
+server/dependency-reduced-pom.xml
+server/buildNumber.properties
+server/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
